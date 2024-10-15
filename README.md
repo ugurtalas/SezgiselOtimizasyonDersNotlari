@@ -1,4 +1,4 @@
-# Sezgisel Optimizasyon Ders Notları
+# Sezgisel Optimizasyon Algoritmaları Ders Notları
 
 1. ve 2. haftanın sunumlarını ekledim.
 
