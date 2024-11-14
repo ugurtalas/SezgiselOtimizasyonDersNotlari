@@ -2,14 +2,14 @@
 
 
 
-#Güncelleme Notları:
+# Güncelleme Notları:
   - 1-5 haftanın sunuları eklendi
   - Derste incelenen Python kodları eklendi 
       - PSO_x2, PSO_x2Graph, PSO_Rastrigin, GA_x2, GA_Gezginsatici, DE_x2, DE_x2Graph, DE_x2y2, DE_Rastrigin
   - Tahtada çözülen örneklerin ders notları eklendi
 
 
-#Kaynaklar;
+# Kaynaklar;
 
   - Prof.Dr. Uğur YÜZGEÇ, ders notları
   - Derviş KARABOĞA, Yapay Zeka Optimizasyon Algoritmaları Kitabı
