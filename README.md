@@ -1,3 +1,8 @@
+
+# Vize Sınavı için ÖNEMLİ NOT
+Vize sınavında hesap makinesi kullanabilirsiniz. İsteyen yanında hesap makinesi getirsin.
+
+
 # Sezgisel Optimizasyon Algoritmaları Ders Notları
 
   Bu repo Bilecik Şeyh Edebali Üniversitesi, Bilgisayar mühendisliği, lisans düzeyineki sezgisel optimizasyon dersinde işlenen sunum, ders notu ve pythonla yazılan kodları içermektedir. 
