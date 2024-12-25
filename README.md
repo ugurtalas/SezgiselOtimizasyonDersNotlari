@@ -5,7 +5,7 @@
   Bu repo Bilecik Şeyh Edebali Üniversitesi, Bilgisayar mühendisliği, lisans düzeyineki sezgisel optimizasyon dersinde işlenen sunum, ders notu ve pythonla yazılan kodları içermektedir. 
 
 # Güncelleme Notları:
-  -  10. haftaya kadar sunular eklendi.
+  -  10 . haftaya kadar sunular eklendi.
 
 # Kaynaklar;
 
